@@ -34,8 +34,9 @@ A list of awesome papers and cool resources on WiFi CSI sensing. Link to the *Gi
 - [Datasets](#datasets)
 - [Libraries & Codes](#libraries--codes)
   - [Libraries](#libraries)
-  - [Github Repositories from Papers](#github-repositories-from-papers)
-    - [Github Repositories from Developers](#github-repositories-from-developers)
+  - [Github Repositories](#github-repositories)
+    - [From Papers](#from-papers)
+    - [From Developers](#from-developers)
 - [Book Chapter](#book-chapter)
 
 # Benchmark
@@ -189,9 +190,10 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 # Libraries & Codes
 
 ## Libraries
-* [[SenseFi]]() Deep learning libraries for WiFi CSI sensing (PyTorch) (Model Zoo)
+* [[SenseFi]]() Deep learning libraries for WiFi CSI sensing  (PyTorch) (Model Zoo)
 
-## Github Repositories from Papers
+## Github Repositories
+### From Papers
 * [EfficientFi: Towards Large-Scale Lightweight WiFi Sensing via CSI Compression](https://ieeexplore.ieee.org/abstract/document/9667414) | [[Github]](https://github.com/Marsrocky/EfficientFi) (Python) (2022) 
 * [DeepSeg: Deep-Learning-Based Activity Segmentation Framework for Activity Recognition Using WiFi](https://ieeexplore.ieee.org/document/9235578) | [[Github]](https://github.com/ChunjingXiao/DeepSeg) (Python) (2021)
 * [Two-Stream Convolution Augmented Transformer for Human Activity Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/16103) | [[Github](https://github.com/windofshadow/THAT)] (Python) (2021)
@@ -202,7 +204,7 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 * [Non-Intrusive Biometric Identification for Personalized Computing Using Wireless Big Data](https://ieeexplore.ieee.org/document/8560141) | [[Github]](https://github.com/mobinets/wifiwalker) (MATLAB) (2018)
 * [SignFi: Sign Language Recognition Using WiFi](https://dl.acm.org/doi/10.1145/3191755) | [[Github]](https://github.com/yongsen/SignFi) (MATLAB & Python) (2018)
 
-### Github Repositories from Developers
+### From Developers
 * [Keystroke Recognition by Machine Learning and DTW](https://github.com/Ericfengdc/Keystroke-recognition-of-Smart-Device-Based-on-WIFI) (MATLAB & Python)
 * [Gait Recognition by SVM](https://github.com/thinszx/WiFi-CSI-gait-recognition) (MATLAB)
 * [BiLSTM for Human Activity Recognition](https://github.com/ludlows/CSI-Activity-Recognition) (Tensorflow 2.0)
