@@ -51,8 +51,8 @@ Papers are ordered by theme and inside each theme by publication date (submissio
 
 ## Methods
 WiFi CSI sensing methods have enabled many applications, which can be divided into three categories:
-* **Learning-based methods** learn the mapping functions from CSI data to the corresponding labels by machine learning and deep learning.
-* **Modeling-based methods** are based on physical theories like the Fresnel Zone model, or statistical models like the Rician fading model.
+* **Learning-based methods** learn the mapping functions from CSI data to the corresponding labels by [machine learning]() and deep learning.
+* **Modeling-based methods** are based on physical theories like the [Fresnel Zone model](https://ieeexplore.ieee.org/abstract/document/8067692), or statistical models like the [Rician fading model](https://ieeexplore.ieee.org/abstract/document/9385792).
 * **Hybrid methods** derive the strengths from learning-based and modeling-based methods.
 
 ## Surveys
@@ -138,6 +138,7 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 * [Person-in-WiFi: Fine-Grained Person Perception Using WiFi](https://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Person-in-WiFi_Fine-Grained_Person_Perception_Using_WiFi_ICCV_2019_paper.html) IEEE/CVF International Conference on Computer Vision (ICCV) (2019)
 
 ### Indoor Localization
+* [RF Sensing in the Internet of Things: A General Deep Learning Framework](https://par.nsf.gov/servlets/purl/10087331) IEEE Communications Magazine (2018)
 * [Passive Indoor Localization Based on CSI and Naive Bayes Classification](https://ieeexplore.ieee.org/abstract/document/7902212) IEEE Transactions on Systems, Man, and Cybernetics: Systems (2018)
 * [CSI-Based Fingerprinting for Indoor Localization: A Deep Learning Approach](https://ieeexplore.ieee.org/abstract/document/7438932) IEEE Transactions on Vehicular Technology (2017)
 * [CSI-Based Indoor Localization](https://ieeexplore.ieee.org/abstract/document/6244790) IEEE Transactions on Parallel and Distributed Systems (2013)
@@ -152,6 +153,8 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 * [AutoFi: Towards Automatic WiFi Human Sensing via Geometric Self-Supervised Learning](https://arxiv.org/abs/2205.01629) arXiv:2205.01629 (2022)
 * [RobustSense: Defending Adversarial Attack for Secure Device-Free Human Activity Recognition](https://arxiv.org/abs/2204.01560) arXiv:2204.01560 (2022)
 * [CSITime: Privacy-preserving human activity recognition using WiFi channel state information](https://www.sciencedirect.com/science/article/abs/pii/S0893608021004391) Neural Networks, (2022)
+* [WiFederated: Scalable WiFi Sensing using Edge Based Federated Learning](https://www.people.vcu.edu/~ebulut/FL-IoT-journal-2021.pdf) IEEE Internet of Things Journal (2021) 
+* [A Lightweight Deep Learning Algorithm for WiFi-Based Identity Recognition](https://ieeexplore.ieee.org/abstract/document/9427070) IEEE Internet of Things Journal (2021)
 * [An Experimental Study of CSI Management to Preserve Location Privacy](https://dl.acm.org/doi/10.1145/3411276.3412187) | [[Github]](https://github.com/seemoo-lab/csicloak) ACM International Workshop on Wireless Network Testbeds, Experimental evaluation & Characterization (WiNTECH) (2020)
 
 ### Cross-Environment WiFi Sensing
@@ -176,6 +179,7 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 * [[Intel 5300 NIC]](https://dhalperi.github.io/linux-80211n-csitool/) Pioneered CSI tool enables Intel 5300 NIC to extract CSI data. It supports 30 subcarriers for a pair of antennas running on 20MHz.
 * [[Atheros CSI Tool]](https://wands.sg/research/wifi/AtherosCSI/) Revamped CSI tool enables various Qualcomm Atheros NIC to extract CSI data. It supports 114 subcarriers for a pair of antennas running on 40MHz.
 * [[Nexmon CSI Tool]](https://github.com/seemoo-lab/nexmon_csi) Mobile CSI Tool enables mobile phone and embedded device (RasPi) to extract CSI data of up to 256 subcarriers for a pair of antennas running on 80MHz.
+* [[ESP32 CSI Tool]](https://stevenmhernandez.github.io/ESP32-CSI-Tool/) The ESP32 CSI Toolkit provides researchers access to Channel State Information (CSI) directly from the ESP32 microcontroller. 
 * [[Software Defined Radio (SDR)]](https://www.ettus.com/) platforms, such as [Universal Software Radio Peripheral (USRP)](https://www.ettus.com/) and [Wireless Open Access Research Platform (WARP)](https://warpproject.org/trac), provide CSI measurements at 2.4GHz, 5GHz, and 60GHz.
 
 # Datasets
