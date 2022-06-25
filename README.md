@@ -168,8 +168,9 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 ### Multi-modal Sensing (WiFi+CV/Radar)
 * [WiFE: WiFi and Vision based Intelligent Facial-Gesture Emotion Recognition](https://www.researchgate.net/profile/Xiang-Zhang-54/publication/340826489_WiFE_WiFi_and_Vision_based_Intelligent_Facial-Gesture_Emotion_Recognition/links/5ec72a1192851c11a87da07b/WiFE-WiFi-and-Vision-based-Intelligent-Facial-Gesture-Emotion-Recognition.pdf) arXiv:2004.09889 (2020)
 * [WiFi and Vision Multimodal Learning for Accurate and Robust Device-Free Human Activity Recognition](https://openaccess.thecvf.com/content_CVPRW_2019/papers/MULA/Zou_WiFi_and_Vision_Multimodal_Learning_for_Accurate_and_Robust_Device-Free_CVPRW_2019_paper.pdf) IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops (2019)
+* [Can WiFi Estimate Person Pose?](https://arxiv.org/abs/1904.00277) | [[Github]](https://github.com/geekfeiw/WiSPPN) arXiv:1904.00277 (2019)
 * [XModal-ID: Using WiFi for Through-Wall Person Identification from Candidate Video Footage](https://dl.acm.org/doi/abs/10.1145/3300061.3345437) Annual International Conference on Mobile Computing and Networking (MOBICOM) (2019)
-
+* [CSI-Net: Unified Human Body Characterization and Pose Recognition](https://arxiv.org/pdf/1810.03064.pdf) | [[Github]](https://github.com/geekfeiw/CSI-Net) arXiv:1810.03064 (2018)
 
 <!-- *********************************************************************** -->
 
@@ -203,6 +204,8 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 * [Two-Stream Convolution Augmented Transformer for Human Activity Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/16103) | [[Github](https://github.com/windofshadow/THAT)] (Python) (2021)
 * [An Experimental Study of CSI Management to Preserve Location Privacy](https://dl.acm.org/doi/10.1145/3411276.3412187) | [[Github]](https://github.com/seemoo-lab/csicloak) (Python) (2020)
 * [CsiGAN: Robust Channel State Information-Based Activity Recognition With GANs](https://ieeexplore.ieee.org/document/8808929) | [[Github]](https://github.com/ChunjingXiao/CsiGAN) (Python) (2019)
+* [Can WiFi Estimate Person Pose?](https://arxiv.org/abs/1904.00277) | [[Github]](https://github.com/geekfeiw/WiSPPN)
+* [CSI-Net: Unified Human Body Characterization and Pose Recognition](https://arxiv.org/pdf/1810.03064.pdf) | [[Github]](https://github.com/geekfeiw/CSI-Net)
 * [Robust WiFi-Enabled Device-Free Gesture Recognition via Unsupervised Adversarial Domain Adaptation](https://ieeexplore.ieee.org/abstract/document/8487345/) | [[Github]](https://github.com/Marsrocky/WiADG) (Python) (2018)
 * [NeuralWave: Gait-Based User Identification Through Commodity WiFi and Deep Learning](https://ieeexplore.ieee.org/document/8591820) | [[Github]](https://github.com/kdkalvik/WiFi-user-recognition) (Python) (2018)
 * [Non-Intrusive Biometric Identification for Personalized Computing Using Wireless Big Data](https://ieeexplore.ieee.org/document/8560141) | [[Github]](https://github.com/mobinets/wifiwalker) (MATLAB) (2018)
