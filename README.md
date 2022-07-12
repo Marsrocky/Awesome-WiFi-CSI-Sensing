@@ -40,7 +40,7 @@ A list of awesome papers and cool resources on WiFi CSI sensing. Link to the *Gi
 - [Book Chapter](#book-chapter)
 
 # Benchmark
-* [Deep Learning and Its Applications in WiFi CSI Sensing]() | [[Github]]() 
+* [Deep Learning and Its Applications in WiFi CSI Sensing]() | [[Github]](https://github.com/CHENXINYAN-sg/WiFi-CSI-Sensing-Benchmark) 
   <br>A comprehensive benchmarking for deep learning models in WiFi sensing.
 
 <!-- *********************************************************************** -->
