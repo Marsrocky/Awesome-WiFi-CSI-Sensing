@@ -40,7 +40,7 @@ A list of awesome papers and cool resources on WiFi CSI sensing. Link to the *Gi
 - [Book Chapter](#book-chapter)
 
 # Benchmark
-* [Deep Learning and Its Applications to WiFi Human Sensing: A Benchmark and A Tutorial](https://arxiv.org/abs/2207.07859) | [[Github]](https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark) 
+* [SenseFi: A Library and Benchmark on Deep-Learning-Empowered WiFi Human Sensing](https://arxiv.org/abs/2207.07859) | [[Github]](https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark) 
   <br>A comprehensive benchmarking for deep learning models in WiFi sensing.
 
 <!-- *********************************************************************** -->
@@ -226,3 +226,15 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 # Book Chapter
 * [Smart Wireless Sensing: From IoT to AIoT](https://link.springer.com/book/10.1007/978-981-16-5658-3) Springer (2021)
 * [Deep Learning and Unsupervised Domain Adaptation for WiFi-based Sensing](https://www.worldscientific.com/doi/abs/10.1142/9789811218842_0004) "Generalization with Deep Learning", World Scientific (2021)
+
+# Reference
+If you think that this github project is helpful for your research, please cite the following paper that includes the above works before 2022.
+```
+@article{yang2023benchmark,
+  title={SenseFi: A Library and Benchmark on Deep-Learning-Empowered WiFi Human Sensing},
+  author={Yang, Jianfei and Chen, Xinyan and Wang, Dazhuo and Zou, Han and Lu, Chris Xiaoxuan and Sun, Sumei and Xie, Lihua},
+  journal={Patterns},
+  publisher={Elsevier},
+  year={2023}
+}
+```
