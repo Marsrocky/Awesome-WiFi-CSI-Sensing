@@ -135,6 +135,7 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 * [WiDriver: Driver Activity Recognition System Based on WiFi CSI](https://link.springer.com/article/10.1007/s10776-018-0389-0) International Journal of Wireless Information Networks (2018)
 
 ### Pose Estimation
+* [MetaFi: Device-Free Pose Estimation via Commodity WiFi for Metaverse Avatar Simulation](https://arxiv.org/abs/2208.10414) The 8th IEEE World Forum on Internet of Things (2022)
 * [3D Human Pose Estimation Using WiFi Signals](https://dl.acm.org/doi/abs/10.1145/3485730.3492871) ACM Conference on Embedded Networked Sensor Systems (SenSys) (2021)
 * [Towards 3D human pose construction using wifi](https://dl.acm.org/doi/abs/10.1145/3372224.3380900) Annual International Conference on Mobile Computing and Networking (MOBICOM) (2020)
 * [Person-in-WiFi: Fine-Grained Person Perception Using WiFi](https://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Person-in-WiFi_Fine-Grained_Person_Perception_Using_WiFi_ICCV_2019_paper.html) IEEE/CVF International Conference on Computer Vision (ICCV) (2019)
