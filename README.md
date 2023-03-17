@@ -235,6 +235,8 @@ If you think that this github project is helpful for your research, please cite 
   title={SenseFi: A Library and Benchmark on Deep-Learning-Empowered WiFi Human Sensing},
   author={Yang, Jianfei and Chen, Xinyan and Wang, Dazhuo and Zou, Han and Lu, Chris Xiaoxuan and Sun, Sumei and Xie, Lihua},
   journal={Patterns},
+  volume={4},
+  number={3},
   publisher={Elsevier},
   year={2023}
 }
