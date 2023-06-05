@@ -117,6 +117,7 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 * [WiG: WiFi-Based Gesture Recognition System](https://ieeexplore.ieee.org/abstract/document/7288485) International Conference on Computer Communication and Networks (ICCCN) (2015)
 
 ### Fall Detection
+* [SiFall: Practical Online Fall Detection with RF Sensing](https://arxiv.org/pdf/2301.03773.pdf) SenSys'22 20th ACM Conference on Embedded Networked Sensor Systems (2022)
 * [DeFall: Environment-Independent Passive Fall Detection Using WiFi](https://ieeexplore.ieee.org/document/9552243) IEEE Internet of Things Journal (2022)
 * [A WiFi-Based Smart Home Fall Detection System Using Recurrent Neural Network](https://ieeexplore.ieee.org/abstract/document/9186064) IEEE Transactions on Consumer Electronics (2020)
 * [RT-Fall: A Real-Time and Contactless Fall Detection System with Commodity WiFi Devices](https://ieeexplore.ieee.org/abstract/document/7458198) IEEE Transactions on Mobile Computing (2017)
