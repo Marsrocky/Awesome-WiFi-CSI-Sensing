@@ -131,10 +131,11 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 * [Human respiration detection with commodity wifi devices: do user location and body orientation matter?](https://dl.acm.org/doi/abs/10.1145/2971648.2971744) Ubicomp (2016)
 
 ### In-Car Activity Recognition
+* [Car-Sense: Vehicle Occupant Legacy Hazard Detection Method Based on DFWS](https://doi.org/10.3390/app122211809) MDPI Applied Sciences (2022)
 * [CARIN: Wireless CSI-based Driver Activity Recognition under the Interference of Passengers](https://dl.acm.org/doi/abs/10.1145/3380992) ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (2020)
 * [WiCAR: WiFi-based in-Car Activity Recognition with Multi-Adversarial Domain Adaptation](https://ieeexplore.ieee.org/abstract/document/9068635) IEEE/ACM 27th International Symposium on Quality of Service (IWQoS) (2019)
 * [WiDriver: Driver Activity Recognition System Based on WiFi CSI](https://link.springer.com/article/10.1007/s10776-018-0389-0) International Journal of Wireless Information Networks (2018)
-* [Car-Sense: Vehicle Occupant Legacy Hazard Detection Method Based on DFWS](https://doi.org/10.3390/app122211809)
+
 
 ### Pose Estimation
 * [MetaFi: Device-Free Pose Estimation via Commodity WiFi for Metaverse Avatar Simulation](https://arxiv.org/abs/2208.10414) The 8th IEEE World Forum on Internet of Things (2022)
