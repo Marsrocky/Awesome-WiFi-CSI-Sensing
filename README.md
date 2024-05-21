@@ -124,11 +124,13 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 * [FallDeFi: Ubiquitous Fall Detection using Commodity Wi-Fi Devices](https://dl.acm.org/doi/abs/10.1145/3161183) the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (2017)
 
 ### Vital Sign Detection & Healthcare
+* [M2-Fi: Multi-person Respiration Monitoring via Handheld WiFi Devices](https://www.researchgate.net/publication/377362453_M2-Fi_Multi-person_Respiration_Monitoring_via_Handheld_WiFi_Devices)The 43rd IEEE International Conference on Computer Communications (INFOCOM)(2024)
 * [Device-Free Multi-Person Respiration Monitoring Using WiFi](https://ieeexplore.ieee.org/abstract/document/9179993) IEEE Transactions on Vehicular Technology (2020)
 * [Sleepy: Wireless Channel Data Driven Sleep Monitoring via Commodity WiFi Devices](https://ieeexplore.ieee.org/abstract/document/8399492) IEEE Transactions on Big Data (2020)
 * [WiFi-Based Real-Time Breathing and Heart Rate Monitoring during Sleep](https://ieeexplore.ieee.org/abstract/document/9014297) IEEE Global Communications Conference (GLOBECOM) (2019)
 * [Contactless Respiration Monitoring Via Off-the-Shelf WiFi Devices](https://ieeexplore.ieee.org/abstract/document/7345587) IEEE Transactions on Mobile Computing (2016)
 * [Human respiration detection with commodity wifi devices: do user location and body orientation matter?](https://dl.acm.org/doi/abs/10.1145/2971648.2971744) Ubicomp (2016)
+
 
 ### In-Car Activity Recognition
 * [Car-Sense: Vehicle Occupant Legacy Hazard Detection Method Based on DFWS](https://doi.org/10.3390/app122211809) MDPI Applied Sciences (2022)
