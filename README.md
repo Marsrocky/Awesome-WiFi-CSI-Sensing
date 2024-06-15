@@ -140,6 +140,7 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 
 
 ### Pose Estimation
+* [Metafi++: Wifi-enabled Transformer-based Human Pose Estimation for Metaverse Avatar Simulation](https://ieeexplore.ieee.org/document/10086600) IEEE Internet of Things Journal (2023)
 * [MetaFi: Device-Free Pose Estimation via Commodity WiFi for Metaverse Avatar Simulation](https://arxiv.org/abs/2208.10414) The 8th IEEE World Forum on Internet of Things (2022)
 * [3D Human Pose Estimation Using WiFi Signals](https://dl.acm.org/doi/abs/10.1145/3485730.3492871) ACM Conference on Embedded Networked Sensor Systems (SenSys) (2021)
 * [Towards 3D human pose construction using wifi](https://dl.acm.org/doi/abs/10.1145/3372224.3380900) Annual International Conference on Mobile Computing and Networking (MOBICOM) (2020)
@@ -174,6 +175,7 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 * [Fine-Grained Adaptive Location-Independent Activity Recognition using Commodity WiFi](https://ieeexplore.ieee.org/abstract/document/8377133) IEEE Wireless Communications and Networking Conference (WCNC) (2018)
 
 ### Multi-modal Sensing (WiFi+CV/Radar)
+* [MM-Fi: Multi-Modal Non-Intrusive 4D Human Dataset for Versatile Wireless Sensing](https://proceedings.neurips.cc/paper_files/paper/2023/file/3baf7a39d07e9f4f1e258a412df94521-Paper-Datasets_and_Benchmarks.pdf) NeurIPS-23 Track on Datasets and Benchmarks (2023)
 * [WiFE: WiFi and Vision based Intelligent Facial-Gesture Emotion Recognition](https://www.researchgate.net/profile/Xiang-Zhang-54/publication/340826489_WiFE_WiFi_and_Vision_based_Intelligent_Facial-Gesture_Emotion_Recognition/links/5ec72a1192851c11a87da07b/WiFE-WiFi-and-Vision-based-Intelligent-Facial-Gesture-Emotion-Recognition.pdf) arXiv:2004.09889 (2020)
 * [WiFi and Vision Multimodal Learning for Accurate and Robust Device-Free Human Activity Recognition](https://openaccess.thecvf.com/content_CVPRW_2019/papers/MULA/Zou_WiFi_and_Vision_Multimodal_Learning_for_Accurate_and_Robust_Device-Free_CVPRW_2019_paper.pdf) IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops (2019)
 * [Can WiFi Estimate Person Pose?](https://arxiv.org/abs/1904.00277) | [[Github]](https://github.com/geekfeiw/WiSPPN) arXiv:1904.00277 (2019)
@@ -192,7 +194,8 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 * [[Software Defined Radio (SDR)]](https://www.ettus.com/) platforms, such as [Universal Software Radio Peripheral (USRP)](https://www.ettus.com/) and [Wireless Open Access Research Platform (WARP)](https://warpproject.org/trac), provide CSI measurements at 2.4GHz, 5GHz, and 60GHz.
 
 # Datasets
-* [[NTU-Fi]]() The NTU-Fi dataset is the only CSI dataset with 114 subcarriers per pair of antennas, collected using Atheros CSI tool. It consists of 6 human activities and 14 human gait patterns.
+* [[MM-Fi]](https://github.com/ybhbingo/MMFi_dataset) The MM-Fi dataset is a large-scale multimodal dataset including CSI, RGB-D, LiDAR, mmwave Radar. It consists of 40 human subjects across 4 different scenarios, with over 20 categories of actions.
+* [[NTU-Fi]](https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark) The NTU-Fi dataset is the only CSI dataset with 114 subcarriers per pair of antennas, collected using Atheros CSI tool. It consists of 6 human activities and 14 human gait patterns.
 * [[Widar 3.0]](https://ieee-dataport.org/open-access/widar-30-wifi-based-activity-recognition-dataset) The Widar 3.0 project is a large dataset designed for use in WiFi-based hand gesture recognition, collected using Intel 5300 NIC (30 subcarriers). The dataset consists of 258K instances of hand gestures with a duration of totally 8,620 minutes and from 75 domains.
 * [[WiAR]](https://github.com/linteresa/WiAR) The WiAR dataset contains sixteen activities including coarse-grained activity and gestures performed by ten volunteers with 30 times every volunteer.
 * [[UT-HAR]](https://github.com/ermongroup/Wifi_Activity_Recognition) The dataset is collected in ''A Survey on Behaviour Recognition Using WiFi Channel State Information''. It consists of continuous CSI data for 6 activities without golden segmentation timestamp for each sample.
@@ -207,6 +210,7 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 
 ## Github Repositories
 ### From Papers
+* [MM-Fi: Multi-Modal Non-Intrusive 4D Human Dataset for Versatile Wireless Sensing](https://arxiv.org/abs/2305.10345) | [[Github]](https://github.com/ybhbingo/MMFi_dataset) (Python) (2023)
 * [EfficientFi: Towards Large-Scale Lightweight WiFi Sensing via CSI Compression](https://ieeexplore.ieee.org/abstract/document/9667414) | [[Github]](https://github.com/Marsrocky/EfficientFi) (Python) (2022) 
 * [DeepSeg: Deep-Learning-Based Activity Segmentation Framework for Activity Recognition Using WiFi](https://ieeexplore.ieee.org/document/9235578) | [[Github]](https://github.com/ChunjingXiao/DeepSeg) (Python) (2021)
 * [Two-Stream Convolution Augmented Transformer for Human Activity Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/16103) | [[Github](https://github.com/windofshadow/THAT)] (Python) (2021)
