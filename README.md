@@ -62,6 +62,8 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 
 ## Applications
 ### Occupancy Detection
+* [WiFi-enabled occupancy monitoring in smart buildings with a Self-Adaptive mechanism](https://dl.acm.org/doi/pdf/10.1145/3555776.3577841?casa_token=teWjknE1Pp4AAAAA:pMnmB2p_G4C7mMn54rUpdWSjyobwCJBWPqkI5jedzXNSN5_w6PEaj2OhpJ9Ronb99eZb9FsZHhc9bw) Proceedings of the 38th ACM/SIGAPP symposium on applied computing. 2023.
+* [A Machine Learning Approach to Passive Human Motion Detection Using WiFi Measurements From Commodity IoT Devices](https://ieeexplore.ieee.org/abstract/document/10122883?casa_token=PyKcBvHN-h0AAAAA:Wx_8OUuR4Ztqz9BQeORKqu5jVOIIIB0edW1IKl5HtUg7D_WjLjWwqGpm4ksD5EcWybCov8gAOA) IEEE Transactions on Instrumentation and Measurement (2023)
 * [Intelligent Wi-Fi Based Child Presence Detection System](https://ieeexplore.ieee.org/document/9747420) IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (2022)
 * [Machine Learning empowered Occupancy Sensing for Smart Buildings](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2019/3/paper.pdf) IEEE ICML Climate Change Workshop (2019)
 * [FreeDetector: Device-Free Occupancy Detection with Commodity WiFi](https://ieeexplore.ieee.org/abstract/document/8011040) IEEE International Conference on Sensing, Communication and Networking (SECON Workshops) (2017)
