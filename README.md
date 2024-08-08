@@ -62,7 +62,7 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 
 ## Applications
 ### Occupancy Detection
-* [WiFi-enabled occupancy monitoring in smart buildings with a Self-Adaptive mechanism](https://dl.acm.org/doi/pdf/10.1145/3555776.3577841?casa_token=teWjknE1Pp4AAAAA:pMnmB2p_G4C7mMn54rUpdWSjyobwCJBWPqkI5jedzXNSN5_w6PEaj2OhpJ9Ronb99eZb9FsZHhc9bw) Proceedings of the 38th ACM/SIGAPP symposium on applied computing. 2023.
+* [WiFi-enabled occupancy monitoring in smart buildings with a Self-Adaptive mechanism](https://dl.acm.org/doi/pdf/10.1145/3555776.3577841?casa_token=teWjknE1Pp4AAAAA:pMnmB2p_G4C7mMn54rUpdWSjyobwCJBWPqkI5jedzXNSN5_w6PEaj2OhpJ9Ronb99eZb9FsZHhc9bw) Proceedings of the 38th ACM/SIGAPP symposium on applied computing (2023)
 * [A Machine Learning Approach to Passive Human Motion Detection Using WiFi Measurements From Commodity IoT Devices](https://ieeexplore.ieee.org/abstract/document/10122883?casa_token=PyKcBvHN-h0AAAAA:Wx_8OUuR4Ztqz9BQeORKqu5jVOIIIB0edW1IKl5HtUg7D_WjLjWwqGpm4ksD5EcWybCov8gAOA) IEEE Transactions on Instrumentation and Measurement (2023)
 * [Intelligent Wi-Fi Based Child Presence Detection System](https://ieeexplore.ieee.org/document/9747420) IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (2022)
 * [Machine Learning empowered Occupancy Sensing for Smart Buildings](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2019/3/paper.pdf) IEEE ICML Climate Change Workshop (2019)
@@ -90,9 +90,10 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 * [Understanding and Modeling of WiFi Signal Based Human Activity Recognition](https://dl.acm.org/doi/abs/10.1145/2789168.2790093) Annual International Conference on Mobile Computing (MOBICOM) (2017) 
 
 ### Human Identification
-
+* [A contactless authentication system based on WiFi CSI](https://dl.acm.org/doi/full/10.1145/3532095) ACM Transactions on Sensor Networks (2023) 
 * [CAUTION: A Robust WiFi-based Human Authentication System via Few-shot Open-set Gait Recognition](https://ieeexplore.ieee.org/abstract/document/9726794/) IEEE Internet of Things Journal (2022)
 * [WiONE: One-Shot Learning for Environment-Robust Device-Free User Authentication via Commodity Wi-Fi in Man–Machine System](https://ieeexplore.ieee.org/abstract/document/9385792) IEEE Transactions on Computational Social Systems (2021)
+* [Gate-ID: WiFi-based human identification irrespective of walking directions in smart home](https://ieeexplore.ieee.org/abstract/document/9272621) IEEE Internet of Things Journal (2020)
 * [Wifi-based Human Identification via Convex Tensor Shapelet Learning](https://ojs.aaai.org/index.php/AAAI/article/view/11497) AAAI Conference on Artificial Intelligence AAAI-18 (2018)
 * [NeuralWave: Gait-Based User Identification Through Commodity WiFi and Deep Learning](https://ieeexplore.ieee.org/document/8591820) | [[Github]](https://github.com/kdkalvik/WiFi-user-recognition) Annual Conference of the IEEE Industrial Electronics Society (IECON) (2018)
 * [Non-Intrusive Biometric Identification for Personalized Computing Using Wireless Big Data](https://ieeexplore.ieee.org/document/8560141) | [[Github]](https://github.com/mobinets/wifiwalker) IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovation (2018)
@@ -101,6 +102,7 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 * [WiFi-ID: Human Identification Using WiFi Signal](https://ieeexplore.ieee.org/abstract/document/7536315) International Conference on Distributed Computing in Sensor Systems (DCOSS) (2016)
  
 ### Crowd Counting
+* [Pa-count: passenger counting in vehicles using wi-fi signals](https://ieeexplore.ieee.org/abstract/document/10089148) IEEE Transactions on Mobile Computing (2023)
 * [Passive People Counting using Commodity WiFi](https://ieeexplore.ieee.org/document/9221456) IEEE 6th World Forum on Internet of Things (WF-IoT) (2020)
 * [Device-free Occupancy Detection and Crowd Counting in Smart Buildings with WiFi-enabled IoT](https://www.sciencedirect.com/science/article/abs/pii/S0378778817339336) Energy and Building (2018)
 * [FreeCount: Device-Free Crowd Counting with Commodity WiFi](https://ieeexplore.ieee.org/abstract/document/8255034) IEEE Global Communications Conference (2017)
@@ -198,6 +200,8 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 # Datasets
 * [[MM-Fi]](https://github.com/ybhbingo/MMFi_dataset) The MM-Fi dataset is a large-scale multimodal dataset including CSI, RGB-D, LiDAR, mmwave Radar. It consists of 40 human subjects across 4 different scenarios, with over 20 categories of actions.
 * [[NTU-Fi]](https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark) The NTU-Fi dataset is the only CSI dataset with 114 subcarriers per pair of antennas, collected using Atheros CSI tool. It consists of 6 human activities and 14 human gait patterns.
+* [[WiFi-80MHz]](https://ieeexplore.ieee.org/abstract/document/10144501/) The data is collected by two Netgear X4S AC2600
+IEEE 802.11ac routers with 256 subcarriers (practically 242 available). It includes 10 subjects and 3 applications.
 * [[Widar 3.0]](https://ieee-dataport.org/open-access/widar-30-wifi-based-activity-recognition-dataset) The Widar 3.0 project is a large dataset designed for use in WiFi-based hand gesture recognition, collected using Intel 5300 NIC (30 subcarriers). The dataset consists of 258K instances of hand gestures with a duration of totally 8,620 minutes and from 75 domains.
 * [[WiAR]](https://github.com/linteresa/WiAR) The WiAR dataset contains sixteen activities including coarse-grained activity and gestures performed by ten volunteers with 30 times every volunteer.
 * [[UT-HAR]](https://github.com/ermongroup/Wifi_Activity_Recognition) The dataset is collected in ''A Survey on Behaviour Recognition Using WiFi Channel State Information''. It consists of continuous CSI data for 6 activities without golden segmentation timestamp for each sample.
