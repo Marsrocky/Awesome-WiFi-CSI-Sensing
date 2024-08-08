@@ -42,6 +42,7 @@ A list of awesome papers and cool resources on WiFi CSI sensing. Link to the *Gi
 # Benchmark
 * [SenseFi: A Library and Benchmark on Deep-Learning-Empowered WiFi Human Sensing](https://arxiv.org/abs/2207.07859) | [[Github]](https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark) 
   <br>A comprehensive benchmarking for deep learning models in WiFi sensing.
+  <br>***Highly Recommended as a Tutorial with Codes**
 
 <!-- *********************************************************************** -->
 
