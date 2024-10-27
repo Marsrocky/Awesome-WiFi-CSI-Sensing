@@ -145,6 +145,7 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 
 
 ### Pose Estimation
+* [Adapose: Towards cross-site device-free human pose estimation with commodity wifi](https://arxiv.org/pdf/2309.16964) IEEE Internet of Things Journal (2024)
 * [Metafi++: Wifi-enabled Transformer-based Human Pose Estimation for Metaverse Avatar Simulation](https://ieeexplore.ieee.org/document/10086600) IEEE Internet of Things Journal (2023)
 * [MetaFi: Device-Free Pose Estimation via Commodity WiFi for Metaverse Avatar Simulation](https://arxiv.org/abs/2208.10414) The 8th IEEE World Forum on Internet of Things (2022)
 * [3D Human Pose Estimation Using WiFi Signals](https://dl.acm.org/doi/abs/10.1145/3485730.3492871) ACM Conference on Embedded Networked Sensor Systems (SenSys) (2021)
