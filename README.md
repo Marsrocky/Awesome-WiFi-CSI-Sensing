@@ -70,6 +70,8 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 * [FreeDetector: Device-Free Occupancy Detection with Commodity WiFi](https://ieeexplore.ieee.org/abstract/document/8011040) IEEE International Conference on Sensing, Communication and Networking (SECON Workshops) (2017)
 
 ### Human Activity Recognition
+* [Exposing Data Leakage in Wi-Fi CSI-Based Human Action Recognition: A Critical Analysis](https://www.mdpi.com/2411-5134/9/4/90) Inventions (2024)
+* [https://www.mdpi.com/1424-8220/24/10/3159](https://www.mdpi.com/1424-8220/24/10/3159) Sensors (2024)
 * [CSI-based location-independent Human Activity Recognition with parallel convolutional networks](https://www.sciencedirect.com/science/article/pii/S0140366422004157) Computer Communications (2023)
 * [CSI-Based Location-Independent Human Activity Recognition Using Feature Fusion](https://ieeexplore.ieee.org/document/9926206) IEEE Transactions on Instrumentation and Measurement (2022)
 * [Wi-Fi-Based Location-Independent Human Activity Recognition with Attention Mechanism Enhanced Method](https://www.mdpi.com/2079-9292/11/4/642/pdf) Electronics (2022)
