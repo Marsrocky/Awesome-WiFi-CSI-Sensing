@@ -57,6 +57,7 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 * **Hybrid methods** derive the strengths from learning-based and modeling-based methods.
 
 ## Surveys
+* [Toward Integrated Sensing and Communications in IEEE 802.11bf Wi-Fi Networks](https://ieeexplore.ieee.org/document/10192291) | [[Github](https://github.com/francescamen/SHARPax)] IEEE Communications Magazine (2023)
 * [WiFi Sensing with Channel State Information: A Survey](https://www.cs.wm.edu/~yma/files/WiFiSensing_YongsenMa_authorversion.pdf) ACM Computing Surveys (2019)
 * [Device-Free WiFi Human Sensing: From Pattern-Based to Model-Based Approaches](https://ieeexplore.ieee.org/abstract/document/8067692) IEEE Communications Magazine (2017)
 * [From RSSI to CSI: Indoor Localization via Channel Response](https://dl.acm.org/doi/abs/10.1145/2543581.2543592) ACM Computing Surveys (2013)
@@ -72,6 +73,8 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 ### Human Activity Recognition
 * [Exposing Data Leakage in Wi-Fi CSI-Based Human Action Recognition: A Critical Analysis](https://www.mdpi.com/2411-5134/9/4/90) Inventions (2024)
 * [Critical Analysis of Data Leakage in WiFi CSI-Based Human Action Recognition Using CNNs](https://www.mdpi.com/1424-8220/24/10/3159) Sensors (2024)
+* [SHARP: Environment and Person Independent Activity Recognition with Commodity IEEE 802.11 Access Points](https://ieeexplore.ieee.org/document/9804861) | [[Github](https://github.com/francescamen/SHARP)] IEEE Transactions on Mobile Computing (2023)
+* [SiMWiSense: Simultaneous Multi-Subject Activity Classification Through Wi-Fi Signals](https://ieeexplore.ieee.org/document/10195411) (2023) | [[Github](https://github.com/kfoysalhaque/SiMWiSense)] IEEE 24th International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM)
 * [CSI-based location-independent Human Activity Recognition with parallel convolutional networks](https://www.sciencedirect.com/science/article/pii/S0140366422004157) Computer Communications (2023)
 * [CSI-Based Location-Independent Human Activity Recognition Using Feature Fusion](https://ieeexplore.ieee.org/document/9926206) IEEE Transactions on Instrumentation and Measurement (2022)
 * [Wi-Fi-Based Location-Independent Human Activity Recognition with Attention Mechanism Enhanced Method](https://www.mdpi.com/2079-9292/11/4/642/pdf) Electronics (2022)
