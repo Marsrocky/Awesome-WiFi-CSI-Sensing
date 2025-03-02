@@ -64,6 +64,8 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 
 ## Applications
 ### Occupancy Detection
+* [Robust In-Car Child Presence Detection using Commercial WiFi](https://dl.acm.org/doi/abs/10.1145/3636534.3698864) Proceedings of the 30th Annual International Conference on Mobile Computing and Networking (MobiCom) (2024)
+* [Time-Selective RNN for Device-Free Multiroom Human Presence Detection Using WiFi CSI](https://ieeexplore.ieee.org/abstract/document/10379149) IEEE Transactions on Instrumentation and Measurement (2024)
 * [WiFi-enabled occupancy monitoring in smart buildings with a Self-Adaptive mechanism](https://dl.acm.org/doi/pdf/10.1145/3555776.3577841?casa_token=teWjknE1Pp4AAAAA:pMnmB2p_G4C7mMn54rUpdWSjyobwCJBWPqkI5jedzXNSN5_w6PEaj2OhpJ9Ronb99eZb9FsZHhc9bw) Proceedings of the 38th ACM/SIGAPP symposium on applied computing (2023)
 * [A Machine Learning Approach to Passive Human Motion Detection Using WiFi Measurements From Commodity IoT Devices](https://ieeexplore.ieee.org/abstract/document/10122883?casa_token=PyKcBvHN-h0AAAAA:Wx_8OUuR4Ztqz9BQeORKqu5jVOIIIB0edW1IKl5HtUg7D_WjLjWwqGpm4ksD5EcWybCov8gAOA) IEEE Transactions on Instrumentation and Measurement (2023)
 * [Intelligent Wi-Fi Based Child Presence Detection System](https://ieeexplore.ieee.org/document/9747420) IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (2022)
@@ -71,6 +73,7 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 * [FreeDetector: Device-Free Occupancy Detection with Commodity WiFi](https://ieeexplore.ieee.org/abstract/document/8011040) IEEE International Conference on Sensing, Communication and Networking (SECON Workshops) (2017)
 
 ### Human Activity Recognition
+* [Vision Transformers for Human Activity Recognition Using WiFi Channel State Information](https://ieeexplore.ieee.org/document/10477406) IEEE Internet of Things Journal (2024)
 * [Exposing Data Leakage in Wi-Fi CSI-Based Human Action Recognition: A Critical Analysis](https://www.mdpi.com/2411-5134/9/4/90) Inventions (2024)
 * [Critical Analysis of Data Leakage in WiFi CSI-Based Human Action Recognition Using CNNs](https://www.mdpi.com/1424-8220/24/10/3159) Sensors (2024)
 * [SHARP: Environment and Person Independent Activity Recognition with Commodity IEEE 802.11 Access Points](https://ieeexplore.ieee.org/document/9804861) | [[Github](https://github.com/francescamen/SHARP)] IEEE Transactions on Mobile Computing (2023)
@@ -96,6 +99,7 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 * [Understanding and Modeling of WiFi Signal Based Human Activity Recognition](https://dl.acm.org/doi/abs/10.1145/2789168.2790093) Annual International Conference on Mobile Computing (MOBICOM) (2017) 
 
 ### Human Identification
+* [A Survey on WiFi-based Human Identification: Scenarios, Challenges, and Current Solutions](https://dl.acm.org/doi/abs/10.1145/3708323) ACM Transactions on Sensor Networks (2025)
 * [A contactless authentication system based on WiFi CSI](https://dl.acm.org/doi/full/10.1145/3532095) ACM Transactions on Sensor Networks (2023) 
 * [CAUTION: A Robust WiFi-based Human Authentication System via Few-shot Open-set Gait Recognition](https://ieeexplore.ieee.org/abstract/document/9726794/) IEEE Internet of Things Journal (2022)
 * [WiONE: One-Shot Learning for Environment-Robust Device-Free User Authentication via Commodity Wi-Fi in Man–Machine System](https://ieeexplore.ieee.org/abstract/document/9385792) IEEE Transactions on Computational Social Systems (2021)
@@ -108,6 +112,8 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 * [WiFi-ID: Human Identification Using WiFi Signal](https://ieeexplore.ieee.org/abstract/document/7536315) International Conference on Distributed Computing in Sensor Systems (DCOSS) (2016)
  
 ### Crowd Counting
+* [BeamCount: Indoor Crowd Counting Using Wi-Fi Beamforming Feedback Information](https://dl.acm.org/doi/abs/10.1145/3641512.3686361) Proceedings of the Twenty-fifth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc) (2024)
+* [CSI-based Passenger Counting on Public Transport Vehicles with Multiple Transceivers](https://ieeexplore.ieee.org/abstract/document/10571130) IEEE Wireless Communications and Networking Conference (WCNC) (2024)
 * [Pa-count: passenger counting in vehicles using wi-fi signals](https://ieeexplore.ieee.org/abstract/document/10089148) IEEE Transactions on Mobile Computing (2023)
 * [Passive People Counting using Commodity WiFi](https://ieeexplore.ieee.org/document/9221456) IEEE 6th World Forum on Internet of Things (WF-IoT) (2020)
 * [Device-free Occupancy Detection and Crowd Counting in Smart Buildings with WiFi-enabled IoT](https://www.sciencedirect.com/science/article/abs/pii/S0378778817339336) Energy and Building (2018)
@@ -117,6 +123,8 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 * [Electronic frog eye: Counting crowd using WiFi](https://ieeexplore.ieee.org/abstract/document/6847958) IEEE Conference on Computer Communications (INFOCOM) (2014)
 
 ### Gesture Recognition
+* [Real-time Cross-Domain Gesture and User Identification via COTS WiFi](https://ieeexplore.ieee.org/abstract/document/10848329) IEEE Transactions on Mobile Computing (2025)
+* [One is Enough: Enabling One-shot Device-free Gesture Recognition with COTS WiFi](https://ieeexplore.ieee.org/abstract/document/10621091) IEEE Conference on Computer Communications (INFOCOM) (2024)
 * [WiHF: Enable User Identified Gesture Recognition with WiFi](https://ieeexplore.ieee.org/abstract/document/9155539) IEEE Conference on Computer Communications (INFOCOM) (2020)
 * [Learning Gestures from WiFi: A Siamese Recurrent Convolutional Architecture](https://ieeexplore.ieee.org/document/8839094) IEEE Internet of Things Journal (2019)
 * [Robust WiFi-Enabled Device-Free Gesture Recognition via Unsupervised Adversarial Domain Adaptation](https://ieeexplore.ieee.org/abstract/document/8487345/) | [[Github]](https://github.com/Marsrocky/WiADG) IEEE International Conference on Computer Communication and Networks (ICCCN) (2018)
@@ -134,6 +142,7 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 * [FallDeFi: Ubiquitous Fall Detection using Commodity Wi-Fi Devices](https://dl.acm.org/doi/abs/10.1145/3161183) the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (2017)
 
 ### Vital Sign Detection & Healthcare
+* [Understanding the Diffraction Model in Static Multipath-Rich Environments for WiFi Sensing System Design](https://ieeexplore.ieee.org/document/10480395) IEEE Transactions on Mobile Computing (2024)
 * [M2-Fi: Multi-person Respiration Monitoring via Handheld WiFi Devices](https://www.researchgate.net/publication/377362453_M2-Fi_Multi-person_Respiration_Monitoring_via_Handheld_WiFi_Devices) The 43rd IEEE International Conference on Computer Communications (INFOCOM)(2024)
 * [Device-Free Multi-Person Respiration Monitoring Using WiFi](https://ieeexplore.ieee.org/abstract/document/9179993) IEEE Transactions on Vehicular Technology (2020)
 * [Sleepy: Wireless Channel Data Driven Sleep Monitoring via Commodity WiFi Devices](https://ieeexplore.ieee.org/abstract/document/8399492) IEEE Transactions on Big Data (2020)
@@ -163,6 +172,10 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 * [CSI-Based Fingerprinting for Indoor Localization: A Deep Learning Approach](https://ieeexplore.ieee.org/abstract/document/7438932) IEEE Transactions on Vehicular Technology (2017)
 * [CSI-Based Indoor Localization](https://ieeexplore.ieee.org/abstract/document/6244790) IEEE Transactions on Parallel and Distributed Systems (2013)
 
+### LLM+WiFi-CSI Sensing
+* [Wi-Chat: Large Language Model Powered Wi-Fi Sensing](https://arxiv.org/abs/2502.12421) arXiv:2502.12421 (2025)
+* [IoT-LLM: Enhancing Real-World IoT Task Reasoning with Large Language Models](https://arxiv.org/abs/2410.02429) arXiv:2410.02429 (2024)
+
 ## Challenges for Real-World Large-Scale WiFi Sensing
 
 ### IoT System Design
@@ -185,7 +198,7 @@ WiFi CSI sensing methods have enabled many applications, which can be divided in
 * [Joint Adversarial Domain Adaptation for Resilient WiFi-Enabled Device-Free Gesture Recognition](https://ieeexplore.ieee.org/abstract/document/8614062) IEEE International Conference on Machine Learning and Applications (2018)
 * [Fine-Grained Adaptive Location-Independent Activity Recognition using Commodity WiFi](https://ieeexplore.ieee.org/abstract/document/8377133) IEEE Wireless Communications and Networking Conference (WCNC) (2018)
 
-### Multi-modal Sensing (WiFi+CV/Radar)
+### Multi-Modal Sensing (WiFi+CV/Radar)
 * [MM-Fi: Multi-Modal Non-Intrusive 4D Human Dataset for Versatile Wireless Sensing](https://proceedings.neurips.cc/paper_files/paper/2023/file/3baf7a39d07e9f4f1e258a412df94521-Paper-Datasets_and_Benchmarks.pdf) NeurIPS-23 Track on Datasets and Benchmarks (2023)
 * [WiFE: WiFi and Vision based Intelligent Facial-Gesture Emotion Recognition](https://www.researchgate.net/profile/Xiang-Zhang-54/publication/340826489_WiFE_WiFi_and_Vision_based_Intelligent_Facial-Gesture_Emotion_Recognition/links/5ec72a1192851c11a87da07b/WiFE-WiFi-and-Vision-based-Intelligent-Facial-Gesture-Emotion-Recognition.pdf) arXiv:2004.09889 (2020)
 * [WiFi and Vision Multimodal Learning for Accurate and Robust Device-Free Human Activity Recognition](https://openaccess.thecvf.com/content_CVPRW_2019/papers/MULA/Zou_WiFi_and_Vision_Multimodal_Learning_for_Accurate_and_Robust_Device-Free_CVPRW_2019_paper.pdf) IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops (2019)
