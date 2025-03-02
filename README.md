@@ -24,6 +24,7 @@ A list of awesome papers and cool resources on WiFi CSI sensing. Link to the *Gi
     - [In-Car Activity Recognition](#in-car-activity-recognition)
     - [Pose Estimation](#pose-estimation)
     - [Indoor Localization](#indoor-localization)
+    - [LLM+WiFi-CSI Sensing](#llmwifi-csi-sensing)
   - [Challenges for Real-World Large-Scale WiFi Sensing](#challenges-for-real-world-large-scale-wifi-sensing)
     - [IoT System Design](#iot-system-design)
     - [Efficiency and Security](#efficiency-and-security)
